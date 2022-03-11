@@ -25,6 +25,7 @@
 - Timer/play cozy music
 - Book reviews/comments (banana fruit rating system)
 - Word games --> Wordle, Bananagrams, Word Soup, Crosswords
+- Grow your tree everytime you interact (can also have a dropdown for each high-school reading book, and have fun quizzes)
 
 *Team Roles:*
 - Riya Anand: Scrum Master. Job is to manage scrum board, read me time box, and keep everything organized. Can help github admin with github pages See Scrum board Policies: [Policies](https://github.com/kamryns/curly-cupboard/wiki/Scrum-Board-POLICIES)
