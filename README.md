@@ -1,5 +1,5 @@
 # Time Box Tri 3
-#Team NARKS
+# Team NARKS
 ## [Scrum Board](https://github.com/kamryns/curly-cupboard/projects/1)
 ## [Github Repository](https://github.com/kamryns/curly-cupboard)
 
@@ -113,7 +113,7 @@
 
 
 ***
-##Project Purpose:
+## Project Purpose:
 Jungle Books fosters a love of reading by creating a welcoming environment to encourage users to discover new books, and log their reads and make reading a more enjoyable experience.
 ***
 
