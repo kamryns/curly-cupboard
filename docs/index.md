@@ -34,3 +34,4 @@
 - Alice Tang: Designer. Uses Bootstrap organization, Sassy, etc. and creates an organized theme throughout our website (can extend base.html)
 
 ### Wireframes + Flowcharts:
+![IMG_6435](https://user-images.githubusercontent.com/89274189/157814361-8b272737-1a95-40ac-a13b-bf98d3ec79b5.jpeg)
