@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## The coolest, codey-st, and catastrophically CURLIEST Git Hub page on planet Earth.
+*Website Title:* Jungle Books (a CurlyCupboard Creation)
 
-You can use the [editor on GitHub](https://github.com/kamryns/curly-cupboard/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+*Project Description:* Jungle Books fosters a love of reading by creating a welcoming environment to encourage users to discover new books, and log their reads and make reading a more enjoyable experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Project Owner/Sponsor:* Mrs. Dafoe. She is an English teacher that emphasizes a reading zone for students. Since this is a reading/book-themed website, Mrs. Dafoe can tell us what features she would like in a website, to help students engage more in reading. Hopefully, when we have our website deployed, she can put a QR code in her classroom for students to scan.
 
-### Markdown
+*Slogan Ideas:*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- "Curliest Vines and the Coolest books in the Canopy"
+- "Let's Rumple in the Jungle"
+- "Where the Wild Things Are"
+- "let's CURL up with a cool book, under a cozy canopy"
+- Mascot = Curly the chameleon (part of our design theme is using C words'
+- Vibe = jungle, adventure, cozy rainforest, watercolor, animals, creature theme.
 
-```markdown
-Syntax highlighted code block
+*Potential features:*
 
-# Header 1
-## Header 2
-### Header 3
+- Book Search Feature
+- Dictionary API
+- Random Book Generator -- Genre and Tropes
+- Quiz for what Book Character are you
+- TBR// Reading Log (Local Storage), would have to have date
+- Saved books - Wattpad, can write your stories
+- Timer/play cozy music
+- Book reviews/comments (banana fruit rating system)
+- Word games --> Wordle, Bananagrams, Word Soup, Crosswords
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamryns/curly-cupboard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
