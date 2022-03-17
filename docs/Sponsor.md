@@ -16,7 +16,7 @@ Asked Mrs. Dafoe to be our sponsor. She agreed!
 Feedback:
 <br>
 
-- give positive reinforcement to a reader 
+  <br> - give positive reinforcement to a reader </br>
 - positive reinforcement makes them want to go back 
 - positive enforcement for us is social 
 - reading group, get connected 
