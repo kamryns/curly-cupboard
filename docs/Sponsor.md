@@ -18,10 +18,12 @@ Feedback/Requirement:
 <br>
 
 - give positive reinforcement to a reader <br>
+- positive reinforcement can be in the form of earning points or something similar <br>
 - positive reinforcement makes them want to go back  <br>
-- positive enforcement for target audience is social  <br>
+- positive enforcement for us is social  <br>
 - reading group, get connected  <br>
 - drop down menu of really easy and accessible titles  <br>
+- give books a "bio" so readers can preview them and find what they might be interested in <br>
 - link to forum where you can do discussion  <br>
 - Website is catered to 2 groups: <br>
   - People who want to get into reading  <br>
