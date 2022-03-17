@@ -1,4 +1,5 @@
 {% include navigation.html %}
+## contact: sdafoe@powayusd.com
 
 <table>
 <tr>
@@ -30,7 +31,7 @@ Feedback:
 - forums need to be monitored 
 - different genre match feature 
   - ex: non fiction and fiction, how do they relate?
-    contact: sdafoe@powayusd.com
+    
 
 
 
