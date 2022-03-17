@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
-[Kamryn's Code Commits](https://github.com/kamryns/curly-cupboard/commits?author=kamryns)
-[Riya's Code Commits](https://github.com/kamryns/curly-cupboard/commits?author=ranand2445)
-[Alice's Code Commits]()
-[Brian's Code Commits]()
-[Sreeja's Code Commits]()
+[Kamryn's Code Commits](https://github.com/kamryns/curly-cupboard/commits?author=kamryns) <br>
+[Riya's Code Commits](https://github.com/kamryns/curly-cupboard/commits?author=ranand2445) <br>
+[Alice's Code Commits]()<br>
+[Brian's Code Commits]()<br>
+[Sreeja's Code Commits]()<br>
