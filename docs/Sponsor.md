@@ -5,7 +5,7 @@
 <tr>
 <td>Week 0</td>
 <td>
-Asked Mrs. Dafoe to be our sponsor. She agreed :smiley:
+Asked Mrs. Dafoe to be our sponsor. She agreed 
 
 </td>
 </tr>
