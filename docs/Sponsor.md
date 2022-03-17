@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>Week 0:</td>
+<td>Week 0</td>
 <td>
 Asked Mrs. Dafoe to be our sponsor. She agreed!
 
