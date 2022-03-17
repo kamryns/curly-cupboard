@@ -1,5 +1,5 @@
 {% include navigation.html %}
-## contact: sdafoe@powayusd.com
+### contact: sdafoe@powayusd.com
 
 <table>
 <tr>
