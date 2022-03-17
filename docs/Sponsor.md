@@ -14,9 +14,11 @@ Asked Mrs. Dafoe to be our sponsor. She agreed!
 <td>Week 1</td>
 
 <td>
-Feedback:
-<br>
+  
 contact: sdafoe@powayusd.com  <br>
+  
+Feedback/Requirement:
+<br>
 
 - give positive reinforcement to a reader <br>
 - positive reinforcement makes them want to go back  <br>
