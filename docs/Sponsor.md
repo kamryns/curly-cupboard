@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td>Week 0:</td>
+<td>Week 0</td>
 <td>
 Asked Mrs. Dafoe to be our sponsor. She agreed!
 
@@ -17,7 +17,7 @@ Asked Mrs. Dafoe to be our sponsor. She agreed!
 Feedback:
 <br>
 
-- give positive reinforcement to a reader 
+- give positive reinforcement to a reader
 - positive reinforcement makes them want to go back 
 - positive enforcement for us is social 
 - reading group, get connected 
