@@ -19,7 +19,7 @@ Feedback/Requirement:
 
 - give positive reinforcement to a reader <br>
 - positive reinforcement makes them want to go back  <br>
-- positive enforcement for us is social  <br>
+- positive enforcement for target audience is social  <br>
 - reading group, get connected  <br>
 - drop down menu of really easy and accessible titles  <br>
 - link to forum where you can do discussion  <br>
