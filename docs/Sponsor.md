@@ -13,10 +13,7 @@ Asked Mrs. Dafoe to be our sponsor. She agreed!
 <tr>
 <td>Week 1</td>
 
-<td>
-  
-contact: sdafoe@powayusd.com  <br>
-  
+<td>  
 Feedback/Requirement:
 <br>
 
