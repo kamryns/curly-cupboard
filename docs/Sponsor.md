@@ -16,21 +16,22 @@ Asked Mrs. Dafoe to be our sponsor. She agreed!
 <td>
 Feedback:
 <br>
+contact: sdafoe@powayusd.com  <br>
 
-- give positive reinforcement to a reader
-- positive reinforcement makes them want to go back 
-- positive enforcement for us is social 
-- reading group, get connected 
-- drop down menu of really easy and accessible titles 
-- link to forum where you can do discussion 
-- Website is catered to 2 groups:
-  - People who want to get into reading 
-  - People who already read but want to explore deeper
-- two different forums, for two different groups 
-- two different main pages for the two types of people 
-- forums need to be monitored 
-- different genre match feature 
-  - ex: non fiction and fiction, how do they relate?
+- give positive reinforcement to a reader <br>
+- positive reinforcement makes them want to go back  <br>
+- positive enforcement for us is social  <br>
+- reading group, get connected  <br>
+- drop down menu of really easy and accessible titles  <br>
+- link to forum where you can do discussion  <br>
+- Website is catered to 2 groups: <br>
+  - People who want to get into reading  <br>
+  - People who already read but want to explore deeper <br>
+- two different forums, for two different groups  <br>
+- two different main pages for the two types of people  <br>
+- forums need to be monitored  <br>
+- different genre match feature  <br>
+  - ex: non fiction and fiction, how do they relate? <br>
     
 
 
