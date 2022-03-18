@@ -31,7 +31,7 @@
 - Forum --> People can add their own ideas and have less structured discussions about books
 - Quiz to help direct people on what genres they would be interested in
 - Quiz to provide recommendations based off of books previously read
-- Directory for new and 'experienced' readers
+- Directory for new readers and 'experienced' readers
 
 *Team Roles:*
 - Riya Anand: Scrum Master. Job is to manage scrum board, read me time box, and keep everything organized. Can help github admin with github pages See Scrum board Policies: [Policies](https://github.com/kamryns/curly-cupboard/wiki/Scrum-Board-POLICIES)
