@@ -2,11 +2,11 @@
 # About our team!
 
 Our team is all composed of students who took APEL this year! We all really love reading and that's why we thought a reading website would be great for us to build. 
-- Riya Github Page: https://ranand2445.github.io/curly-knife/
-- Kamryn Github Page: https://kamryns.github.io/curly-spork/
-- Brian Github Page: https://bgt072105.github.io/curly-ladle/
-- Alice Github Page: https://tangalice.github.io/curly-chopstick/index
-- Sreeja Github Page: https://sreejavad.github.io/curly-spatula/
+- [Riya Github Page](https://ranand2445.github.io/curly-knife/)
+- [Kamryn Github Page](https://kamryns.github.io/curly-spork/)
+- [Brian Github Page](https://bgt072105.github.io/curly-ladle/)
+- [Alice Github Page](https://tangalice.github.io/curly-chopstick/index)
+- [Sreeja Github Page](https://sreejavad.github.io/curly-spatula/)
 
 
 *Team Roles:*
