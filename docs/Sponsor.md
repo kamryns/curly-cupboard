@@ -32,7 +32,7 @@ Feedback/Requirement:
   - Do this by creating a form of a directory when you first create the website and allows you to reach different home pages  <br>
 - two different forums, for two different groups  <br>
 - two different main pages for the two types of people  <br>
-- forums need to be monitored to avoid misuse  <br>
+- forums need to be monitored to avoid misuse and inappropriate behavior   <br>
 - Make the website more personalized; based off of previous reads what would someone like to read in the future?  <br>
 - Note: Make sure the website isn't too general, make it more personalized and in depth so that it's unique.  <br> 
 - different genre match feature  <br>
