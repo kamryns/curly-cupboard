@@ -22,17 +22,21 @@ Feedback/Requirement:
 - positive reinforcement makes them want to go back  <br>
 - positive enforcement for us is social  <br>
 - reading group, get connected  <br>
+- some sort of channel for people to share their ideas and opinions regarding books  <br>
 - drop down menu of really easy and accessible titles  <br>
 - give books a "bio" so readers can preview them and find what they might be interested in <br>
 - link to forum where you can do discussion  <br>
 - Website is catered to 2 groups: <br>
   - People who want to get into reading  <br>
   - People who already read but want to explore deeper <br>
+  - Do this by creating a form of a directory when you first create the website and allows you to reach different home pages  <br>
 - two different forums, for two different groups  <br>
 - two different main pages for the two types of people  <br>
-- forums need to be monitored  <br>
+- forums need to be monitored to avoid misuse  <br>
+- Make the website more personalized; based off of previous reads what would someone like to read in the future?  <br>
+- Note: Make sure the website isn't too general, make it more personalized and in depth so that it's unique.  <br> 
 - different genre match feature  <br>
-  - ex: non fiction and fiction, how do they relate? <br>
+  - ex: non-fiction and fiction, how do they relate? <br>
     
 
 
