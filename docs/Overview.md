@@ -28,12 +28,16 @@
 - Book reviews/comments (banana fruit rating system)
 - Word games --> Wordle, Bananagrams, Word Soup, Crosswords
 - Grow your tree everytime you interact (can also have a dropdown for each high-school reading book, and have fun quizzes)
+- Forum --> People can add their own ideas and have less structured discussions about books
+- Quiz to help direct people on what genres they would be interested in
+- Quiz to provide recommendations based off of books previously read
+- Directory for new readers and 'experienced' readers
 
 *Team Roles:*
 - Riya Anand: Scrum Master. Job is to manage scrum board, read me time box, and keep everything organized. Can help github admin with github pages See Scrum board Policies: [Policies](https://github.com/kamryns/curly-cupboard/wiki/Scrum-Board-POLICIES)
 - Kamryn Sinsuan: Github Admin. Manages repo, branches, pull requests, etc. Also updates the Github pages, and makes sure that nobody's commits get overriden by preparing policies
 - Brian Tang: Technical Officer. Their job is to try and impliment the new Tech Talk Topics, and explain and help team members understand what they are doing, and make sure team members are able to apply it as well.
-- Sreeja Vadlamudi: Deployment manager. Using a Pi, or something similar, they must deploy our team website (VNC viewer)
+- Sreeja Vadlamudi: Deployment manager. Using a Pi, or something similar, they must deploy our team website (VNC viewer). Additionally, they will obtain a certificate to ensure that the website is secure.   
 - Alice Tang: Designer. Uses Bootstrap organization, Sassy, etc. and creates an organized theme throughout our website (can extend base.html)
 
 ### Wireframes + Flowcharts:
