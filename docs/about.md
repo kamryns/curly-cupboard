@@ -1,3 +1,4 @@
+{% include navigation.html %}
 # About our team!
 
 Our team is all composed of students who took APEL this year! We all really love reading and that's why we thought a reading website would be great for us to build. 
