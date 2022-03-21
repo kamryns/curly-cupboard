@@ -20,3 +20,7 @@ def life():
 @app_frontend.route('/snake')
 def snake():
     return render_template("snake.html")
+
+@app_frontend.route('/notepad')
+def notepad():
+    return render_template("notepad.html")
