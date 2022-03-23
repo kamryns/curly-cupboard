@@ -1,5 +1,6 @@
 {% include navigation.html %}
 ### contact: sdafoe@powayusd.com
+### PII Concerns: We talked to Mrs. Dafoe and she said that one concern she would have with a forum, is that students can upload innappropriate content. She wants us to make sure students can't upload things like that. One way we have to combat that is that the only upload/post option we would have available is on local storage, so it wouldn't be accessible by other studnets. 
 
 <table>
 <tr>
@@ -40,6 +41,18 @@ Feedback/Requirement:
     
 
 
+
+</td>
+</tr>
+  
+  <tr>
+<td>Week 2</td>
+
+<td>  
+Feedback/Requirement:
+<br>
+
+- showed her our visuals <br>
 
 </td>
 </tr>
