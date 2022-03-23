@@ -16,6 +16,15 @@
 - Mascot = Curly the chameleon (part of our design theme is using C words'
 - Vibe = jungle, adventure, cozy rainforest, watercolor, animals, creature theme.
 
+*About Us Pages*
+- Each a Jungle book character (about us background with that theme and toggle picture)
+- Sreeja: Mowgli
+- Brian: Akhila
+- Riya: Bhageera
+- Kamryn: Baloo
+- Alice: Kaa
+
+
 *Potential features:*
 
 - Book Search Feature
