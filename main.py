@@ -26,6 +26,9 @@ def index():
 def writer():
     return render_template("writer.html")
 
+@app.route('/readingchecklist')
+def readingchecklist():
+    return render_template("readingchecklist.html")
 
 @app.errorhandler(404)
 def page_not_found(e):
